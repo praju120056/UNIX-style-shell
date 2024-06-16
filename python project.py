@@ -1,3 +1,4 @@
+#this is a project on a basic online quiz portal that allows only teachers to access and modify questions through a password
 import time
 import os
 import platform
