@@ -1,1 +1,1 @@
-Random projects that im doing to learn new stuff 
+Random projects that I'm doing to learn new stuff 
