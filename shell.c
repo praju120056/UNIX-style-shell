@@ -31,7 +31,7 @@ int main()
 
     while (1)
     {
-        printf("myshell> ");
+        printf("praj_shell> ");
         if (!fgets(input, MAX_CMD_LEN, stdin))
             break;
 
