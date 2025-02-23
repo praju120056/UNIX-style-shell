@@ -1,3 +1,4 @@
+//this is a replication of the c shell in unix
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
