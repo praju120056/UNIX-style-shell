@@ -167,7 +167,7 @@ void execute_command(CommandType cmd_type, char *args[])
             printf("Unknown command: %s\n", args[0]);
     }
 }
-
+//made by prajakth120056
 void execute_external(char *args[])
 {
     pid_t pid = fork();
