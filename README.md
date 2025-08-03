@@ -14,7 +14,7 @@ A simple yet functional UNIX-style shell implementation in **C** that mimics bas
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure  (TO-DO)
  
 ├── main.c # Core shell loop and command parsing  
 ├── commands.h # Header file with function prototypes  
